@@ -1,21 +1,17 @@
-import java.util.Arrays;
+import java.util.HashSet;
 
 class Solution {
     public int solution(int[] nums) {
-        int N = nums.length / 2;
-
-        Arrays.sort(nums);
-        int count = 1;
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] != nums[i + 1]) {
-                count += 1;
-            } 
-        }
+        HashSet<Integer> hs = new HashSet<>();
         
-        if (count >= N) {
-            return N;
+        for (int i = 0; i < nums.length; i++) {
+            hs.add(nums[i]);
+        }
+
+        if (hs.size() >= nums.length / 2) {
+            return nums.length / 2;
         } else {
-            return count;
+            return hs.size();
         }
     }
 }
