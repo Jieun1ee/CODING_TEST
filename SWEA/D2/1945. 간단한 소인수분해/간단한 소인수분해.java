@@ -42,7 +42,7 @@ class Solution
         int t = Integer.parseInt(br.readLine());
 
         for (int i = 1; i <= t; i++) {
-            long n = Long.parseLong(br.readLine());
+            int n = Integer.parseInt(br.readLine());
             int a = 0, b = 0, c = 0, d = 0, e = 0;
             while (n > 1) {
                 if (n % 2 == 0) {
