@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/Jieun1ee/CODING_TEST/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Jieun1ee/CODING_TEST/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jieun1ee/CODING_TEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Jieun1ee/CODING_TEST/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jieun1ee/CODING_TEST/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jieun1ee/CODING_TEST/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Jieun1ee/CODING_TEST/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jieun1ee/CODING_TEST/tree/master/0424-longest-repeating-character-replacement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Jieun1ee/CODING_TEST/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
