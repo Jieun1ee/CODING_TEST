@@ -72,4 +72,9 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jieun1ee/CODING_TEST/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Jieun1ee/CODING_TEST/tree/master/0191-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Jieun1ee/CODING_TEST/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
