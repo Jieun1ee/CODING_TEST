@@ -26,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jieun1ee/CODING_TEST/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Jieun1ee/CODING_TEST/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jieun1ee/CODING_TEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jieun1ee/CODING_TEST/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jieun1ee/CODING_TEST/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Jieun1ee/CODING_TEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
