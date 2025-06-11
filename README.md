@@ -35,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jieun1ee/CODING_TEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Jieun1ee/CODING_TEST/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jieun1ee/CODING_TEST/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2058-concatenation-of-array](https://github.com/Jieun1ee/CODING_TEST/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Jieun1ee/CODING_TEST/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Jieun1ee/CODING_TEST/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
