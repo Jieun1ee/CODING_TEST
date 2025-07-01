@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jieun1ee/CODING_TEST/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Jieun1ee/CODING_TEST/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jieun1ee/CODING_TEST/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Jieun1ee/CODING_TEST/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Jieun1ee/CODING_TEST/tree/master/0076-minimum-window-substring) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jieun1ee/CODING_TEST/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Jieun1ee/CODING_TEST/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Jieun1ee/CODING_TEST/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jieun1ee/CODING_TEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Jieun1ee/CODING_TEST/tree/master/0136-single-number) |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Jieun1ee/CODING_TEST/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jieun1ee/CODING_TEST/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
