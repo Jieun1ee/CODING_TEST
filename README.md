@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jieun1ee/CODING_TEST/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jieun1ee/CODING_TEST/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Jieun1ee/CODING_TEST/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Jieun1ee/CODING_TEST/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jieun1ee/CODING_TEST/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Jieun1ee/CODING_TEST/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Jieun1ee/CODING_TEST/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Jieun1ee/CODING_TEST/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jieun1ee/CODING_TEST/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
